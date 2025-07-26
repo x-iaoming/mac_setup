@@ -13,6 +13,7 @@ brew install --cask orbstack
 
 # install tooling 
 brew install tmux
-brew install neovim
-brew install lazyvim
-brew install fd 
+brew install ctags
+#brew install neovim
+#brew install lazyvim
+#brew install fd 
